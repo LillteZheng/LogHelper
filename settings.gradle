@@ -1,0 +1,3 @@
+include ':logZiplib'
+include ':app'
+rootProject.name = "EasyLog"
